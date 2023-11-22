@@ -2,8 +2,8 @@ package OopsConcept;
 
 public class Flat extends Building{
 
-    void floorPlan(){
-        System.out.println("Building Floor plan have 4 Bedroom");
+    void Plan(){
+        System.out.println("Building have 4 Bedroom");
     }
     void floor(){
         System.out.println("Building have 5 Floor");
